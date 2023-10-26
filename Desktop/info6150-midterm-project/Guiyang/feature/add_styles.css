@@ -1,0 +1,51 @@
+/* Selectors */
+h1, h2, h3 {
+    color: #0073e6; /* Text color */
+}
+
+body {
+    background-color: #f2f2f2; /* Background color */
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid #333; /* Border color */
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+a {
+    color: #0073e6; /* Text color */
+    text-decoration: none;
+}
+
+/* Block-level element */
+footer {
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Inline element */
+strong {
+    color: #ff5733; /* Text color */
+}
+
